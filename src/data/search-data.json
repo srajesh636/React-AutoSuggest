@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "Peggy Cooper",
+      "imageUrl": "https://randomuser.me/api/portraits/women/13.jpg",
+      "address": "Copper Falls Ave",
+      "category": "human"
+    },
+    {
+      "name": "Katie Watson",
+      "imageUrl": "https://randomuser.me/api/portraits/women/34.jpg",
+      "address": "Cedar Hills Blvd",
+      "category": "human"
+    },
+    {
+      "name": "Jane Adams",
+      "imageUrl": "https://randomuser.me/api/portraits/men/33.jpg",
+      "address": "Second St",
+      "category": "human"
+    },
+    {
+      "name": "John",
+      "imageUrl": "https://randomuser.me/api/portraits/men/35.jpg",
+      "address": "Long Rapids Rd",
+      "category": "human"
+    },
+    {
+      "name": "Fluffy",
+      "imageUrl": "https://vetstreet.brightspotcdn.com/dims4/default/54186d0/2147483647/thumbnail/590x420/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F40%2F58%2F3bc5c01c4cdb8a0581681831faa9%2Fgreat-dane-shaking-paw-thinkstockphotos-522650067-590.jpg",
+      "address": "Copper Falls Ave",
+      "category": "animal"
+    },
+    {
+      "name": "Dexter",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEf-1novkgU8fo76951EnLSQzdBa_RafvWZKggPDiYXK7qJwwn",
+      "address": "Cedar Hills Blvd",
+      "category": "animal"
+    },
+    {
+      "name": "Scooby",
+      "imageUrl": "https://cdn2-www.dogtime.com/assets/uploads/gallery/samoyed-dogs-and-puppies/samoyed-dogs-puppies-1.jpg",
+      "address": "Second St",
+      "category": "animal"
+    },
+    {
+      "name": "Tintin",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZwwRA4nzuc_7qLmdvomoEmB2IRB94gZw0eLyfyIEZPXOV5eWxQ",
+      "address": "Long Rapids Rd",
+      "category": "animal"
+    }
+  ]
+}
